@@ -53,14 +53,9 @@ Additional category totals and record counts are calculated by the notebook from
 
 ## Visualizations
 
-The notebook contains six visualizations:
+The dashboard below highlights customer shopping patterns, product category performance, spending behavior, payment preferences, and purchase frequency.
 
-1. Purchase count by product category.
-2. Total recorded purchase amount by category.
-3. Average purchase amount by gender.
-4. Average purchase amount by age group.
-5. Payment method preferences.
-6. Reported purchase frequency.
+![Customer Shopping Behavior Analysis Dashboard](images/customer-shopping-dashboard.png)
 
 ## Business Recommendations
 
